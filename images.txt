@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 paketobuildpacks/run-jammy-base
 library/debian
+library/fedora
